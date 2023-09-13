@@ -1,0 +1,33 @@
+Log file created at: 2023-09-10 12:51:27 6167 140194762741760
+2023-09-10 12:51:27 6167 140194762741760 storage/tiny_storage.cc(122) LOG(WARNING) cannot open:/home/rsegt/.config/mozc/.registry.db: NOT_FOUND: Failed to open /home/rsegt/.config/mozc/.registry.db with flags 0: No such file or directory
+2023-09-10 12:51:27 6167 140194762741760 dictionary/user_dictionary.cc(266) LOG(WARNING) Cannot get modification time of the user dictionary: NOT_FOUND: stat failed: /home/rsegt/.config/mozc/user_dictionary.db: No such file or directory
+2023-09-10 12:51:27 6167 140194762741760 dictionary/user_dictionary.cc(506) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-09-10 12:51:27 6167 140194755901120 storage/encrypted_string_storage.cc(69) LOG(ERROR) cannot open user history file: NOT_FOUND: Failed to open /home/rsegt/.config/mozc/.history.db with flags 0: No such file or directory
+2023-09-10 12:51:27 6167 140194755901120 prediction/user_history_predictor.cc(241) LOG(ERROR) Can't load user history data.
+2023-09-10 12:51:27 6167 140194755901120 prediction/user_history_predictor.cc(440) LOG(ERROR) UserHistoryStorage::Load() failed
+2023-09-10 12:51:27 6167 140194762741760 config/config_handler.cc(203) LOG(ERROR) user://config1.db is not found
+2023-09-10 12:53:40 6167 140194755901120 base/password_manager.cc(130) LOG(ERROR) cannot open: /home/rsegt/.config/mozc/.encrypt_key.db: NOT_FOUND: Failed to open /home/rsegt/.config/mozc/.encrypt_key.db with flags 0: No such file or directory
+2023-09-10 12:53:40 6167 140194755901120 base/password_manager.cc(192) LOG(ERROR) LoadPassword failed
+2023-09-10 12:53:40 6167 140194755901120 base/password_manager.cc(296) LOG(WARNING) Cannot get password. call InitPassword
+2023-09-10 12:53:40 6167 140194755901120 base/password_manager.cc(130) LOG(ERROR) cannot open: /home/rsegt/.config/mozc/.encrypt_key.db: NOT_FOUND: Failed to open /home/rsegt/.config/mozc/.encrypt_key.db with flags 0: No such file or directory
+2023-09-10 12:53:40 6167 140194755901120 base/password_manager.cc(192) LOG(ERROR) LoadPassword failed
+2023-09-10 12:53:40 6167 140194755901120 base/password_manager.cc(79) LOG(WARNING) file not found: /home/rsegt/.config/mozc/.encrypt_key.db: NOT_FOUND: Cannot stat /home/rsegt/.config/mozc/.encrypt_key.db: No such file or directory
+2023-09-10 12:58:39 6167 140194737919680 dictionary/user_dictionary.cc(506) LOG(INFO) MaybeStartReload() didn't start reloading
+2023-09-10 13:02:17 6167 140194737919680 session/session_converter.cc(1720) LOG(WARNING) ReconstructHistory failed.
+2023-09-10 13:03:12 6167 140194737919680 session/session_converter.cc(1720) LOG(WARNING) ReconstructHistory failed.
+2023-09-10 18:03:37 6167 140194737919680 session/session_handler.cc(493) LOG(WARNING) SessionID 75337775467645209 is not available
+2023-09-10 18:46:10 6167 140194737919680 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 11476577222819906885
+2023-09-10 19:39:42 6167 140194737919680 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 5175949712355813185
+2023-09-10 19:39:42 6167 140194737919680 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 13272237385684695568
+2023-09-10 19:39:42 6167 140194737919680 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 15935865999643782227
+2023-09-10 19:39:42 6167 140194737919680 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 14948273133951173569
+Log file created at: 2023-09-11 16:37:40 164938 140253324531712
+2023-09-11 16:37:40 164938 140253324531712 storage/tiny_storage.cc(130) LOG(ERROR) the file is missing the header.
+2023-09-11 16:37:40 164938 140253324531712 storage/registry.cc(72) LOG(ERROR) cannot open registry
+2023-09-11 17:57:48 164938 140253222397632 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 559198664820890576
+2023-09-11 17:58:25 164938 140253222397632 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 10430251492731003182
+2023-09-11 17:58:25 164938 140253222397632 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 11849229228948206487
+2023-09-11 17:58:25 164938 140253222397632 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 14847940615519896611
+2023-09-11 17:58:27 164938 140253222397632 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 12884426308626731750
+2023-09-11 18:02:46 164938 140253222397632 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 4492914559230740222
+2023-09-11 18:02:46 164938 140253222397632 session/session_handler.cc(735) LOG(WARNING) [id != 0] cannot find SessionID 4248685542268000811

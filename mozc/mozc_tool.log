@@ -1,0 +1,8 @@
+Log file created at: 2023-09-10 12:54:48 6953 139639482998336
+2023-09-10 12:54:48 6953 139639482998336 config/config_handler.cc(203) LOG(ERROR) user://config1.db is not found
+2023-09-10 12:54:48 6953 139639482998336 dictionary/user_dictionary_session.cc(345) LOG(ERROR) Load failed: NOT_FOUND: Cannot stat /home/rsegt/.config/mozc/user_dictionary.db: No such file or directory: last error=1
+2023-09-10 12:54:48 6953 139639482998336 gui/dictionary_tool/dictionary_tool.cc(352) LOG(WARNING) UserDictionarySession::Load() failed
+2023-09-10 12:54:48 6953 139639482998336 gui/dictionary_tool/dictionary_tool.cc(1067) LOG(WARNING) No current dictionary.
+2023-09-10 12:54:48 6953 139639482998336 gui/dictionary_tool/dictionary_tool.cc(1067) LOG(WARNING) No current dictionary.
+Log file created at: 2023-09-10 12:57:51 7747 139839977868864
+2023-09-10 12:57:51 7747 139839977868864 config/config_handler.cc(203) LOG(ERROR) user://config1.db is not found

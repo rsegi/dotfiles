@@ -1,0 +1,60 @@
+Log file created at: 2023-09-10 12:51:27 933 140486231271552
+2023-09-10 12:51:27 933 140486231271552 config/config_handler.cc(203) LOG(ERROR) user://config1.db is not found
+2023-09-10 12:51:27 933 140486231271552 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/rsegt/.config/mozc/.session.ipc
+2023-09-10 12:51:27 933 140486231271552 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-09-10 12:51:27 933 140486231271552 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/rsegt/.config/mozc/.session.ipc
+2023-09-10 12:51:27 933 140486231271552 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-09-10 12:51:27 933 140486231271552 client/client.cc(597) LOG(ERROR) Connection failure to session
+2023-09-10 12:51:27 933 140486231271552 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/rsegt/.config/mozc/.session.ipc
+2023-09-10 12:51:27 933 140486231271552 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-09-10 12:51:27 933 140486231271552 ipc/ipc_path_manager.cc(514) LOG(ERROR) cannot open: /home/rsegt/.config/mozc/.session.ipc
+2023-09-10 12:51:27 933 140486231271552 ipc/ipc_path_manager.cc(258) LOG(ERROR) LoadPathName failed
+2023-09-10 12:51:27 933 140486231271552 client/client.cc(597) LOG(ERROR) Connection failure to session
+2023-09-10 12:56:40 933 140486231271552 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
+2023-09-10 12:56:57 933 140486231271552 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
+2023-09-10 13:05:55 933 140486231271552 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
+2023-09-10 18:03:37 933 140486231271552 client/client.cc(385) LOG(ERROR) Session id is void. re-issue session id
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(499) LOG(ERROR) DeleteSession failed
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(499) LOG(ERROR) DeleteSession failed
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(499) LOG(ERROR) DeleteSession failed
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(676) LOG(ERROR) Connection failure to session
+2023-09-10 19:39:46 933 140486231271552 client/client.cc(499) LOG(ERROR) DeleteSession failed
+Log file created at: 2023-09-11 16:37:40 155596 139965137143936
+2023-09-11 16:37:40 155596 139965137143936 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-11 16:37:40 155596 139965137143936 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-11 16:37:40 155596 139965137143936 client/client.cc(597) LOG(ERROR) Connection failure to session
+2023-09-11 16:37:40 155596 139965137143936 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-11 16:37:40 155596 139965137143936 ipc/unix_ipc.cc(276) LOG(WARNING) connect failed: Connection refused
+2023-09-11 16:37:40 155596 139965137143936 client/client.cc(597) LOG(ERROR) Connection failure to session
+2023-09-11 16:37:42 155596 139965137143936 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
+2023-09-11 16:37:44 155596 139965137143936 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
+2023-09-11 16:37:44 155596 139965137143936 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
+2023-09-11 16:37:45 155596 139965137143936 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
+2023-09-11 17:39:35 155596 139965137143936 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
+2023-09-11 17:39:48 155596 139965137143936 unix/fcitx5/fcitx_key_event_handler.cc(112) LOG(ERROR) Translate failed
